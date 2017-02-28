@@ -7,4 +7,11 @@ git push origin master
 
 
 
+c++ Program compile:
+g++ test.cpp
+./a.out
 
+
+c Program compile:
+gcc test.c
+./a.out
