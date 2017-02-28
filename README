@@ -1,7 +1,8 @@
 This is a git repo
 git add README
 git commit -m "Uppdate message"
-git remote add origin https://github.com/user_name/Mytest.git
+verkar inte behöva göra följande: git remote add origin https://github.com/user_name/Mytest.git 
+utan skippa direkt till nästa->
 git push origin master
 
 
